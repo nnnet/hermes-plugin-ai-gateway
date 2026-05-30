@@ -1,0 +1,6 @@
+name: ai-gateway-provider
+kind: model-provider
+version: 1.0.1
+description: Vercel AI Gateway
+author: nnnet/AiManager
+repo: https://github.com/nnnet/hermes-plugin-ai-gateway
